@@ -1,0 +1,309 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.youtube.com/watch?v=ev7iProynaU",
+            "image_url": "https://crypto.snapi.dev/images/v1/b/i/microstrategy-ceo-says-bitcoin-will-be-volatile-but-it-will-go-up-forever-75243.jpg",
+            "title": "MicroStrategy CEO says Bitcoin will be volatile, but it will 'go up forever'",
+            "text": "Michael Saylor, MicroStrategy chairman and CEO, joins 'Squawk on the Street' to discuss his outlook on Bitcoin in the next 12 months.",
+            "source_name": "CNBC Television",
+            "date": "Mon, 01 Nov 2021 11:30:25 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cryptonews.com//news/peter-thiel-high-bitcoin-prices-are-proof-of-us-inflation.htm",
+            "image_url": "https://crypto.snapi.dev/images/v1/m/u/snapshot-75072.jpg",
+            "title": "Peter Thiel: High Bitcoin Prices Are Proof of US Inflation",
+            "text": "The PayPal co-founder and venture capitalist billionaire Peter Thiel has claimed that rising bitcoin (BTC) prices are proof that inflation has taken hold in the United States economy.",
+            "source_name": "Cryptonews",
+            "date": "Mon, 01 Nov 2021 04:31:00 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cryptobriefing.com/peter-thiel-calls-bitcoin-surge-sign-of-a-crisis-moment/?utm_source=main_feed&utm_medium=rss",
+            "image_url": "https://crypto.snapi.dev/images/v1/z/j/peter-thiel-calls-bitcoin-surge-a-crisis-moment-for-fed-cover-838x440-75241.png",
+            "title": "Peter Thiel Calls Bitcoin Surge Sign of a “Crisis Moment”",
+            "text": "Peter Thiel says high Bitcoin prices indicate inflation troubles.",
+            "source_name": "Crypto Briefing",
+            "date": "Mon, 01 Nov 2021 11:39:02 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/markets/cryptocurrency/21/11/23797346/anonymous-bitcoin-whale-just-moved-617m-worth-of-btc-off-coinbase",
+            "image_url": "https://crypto.snapi.dev/images/v1/f/g/btc-whale-image-10-75256.png",
+            "title": "Anonymous Bitcoin Whale Just Moved $617M Worth Of BTC Off Coinbase",
+            "text": "What happened: A Bitcoin (CRYPTO: BTC) whale just sent $616,565,264 worth of Bitcoin off Coinbase. The BTC address associated with this transaction has been identified as: 1PfaYUUy9pTFNVarYxByfUZ8Uh5pDuXZrU.",
+            "source_name": "Benzinga",
+            "date": "Mon, 01 Nov 2021 12:08:39 -0400",
+            "topics": [
+                "whales"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/bitcoin-whale-indicator-detects-multi-month-accumulation-trend-as-btc-eyes-67k-retest",
+            "image_url": "https://crypto.snapi.dev/images/v1/c/e/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmtevndjmmzy2nmqtzgvkzi00mjdklwfmmdetmzkzyzc0njbiodcxlmpwzw-75216.jpg",
+            "title": "Bitcoin whale indicator detects multi-month accumulation trend as BTC eyes $67K-retest",
+            "text": "The \"Whales Supply Shock\" metric has been pretty accurate in detecting Bitcoin market tops.",
+            "source_name": "Cointelegraph",
+            "date": "Mon, 01 Nov 2021 10:25:00 -0400",
+            "topics": [
+                "whales"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.coindesk.com/business/2021/11/01/crypto-fund-inflows-slow-after-record-jolt-from-bitcoin-futures-etf/",
+            "image_url": "https://crypto.snapi.dev/images/v1/t/b/uuyq5ufivrfmzh3matjatu52ve-75303.png",
+            "title": "Crypto Fund Inflows Slow After Record Jolt From Bitcoin Futures ETF",
+            "text": "The majority of inflows were bitcoin-related, with a total of $269 million pumped into investment funds focused on the largest cryptocurrency.",
+            "source_name": "Coindesk",
+            "date": "Mon, 01 Nov 2021 14:53:00 -0400",
+            "topics": [
+                "futures"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://u.today/peter-thiel-sees-high-bitcoin-price-as-sign-of-real-inflation",
+            "image_url": "https://crypto.snapi.dev/images/v1/0/9/16191431352812-778671-75045.png",
+            "title": "Peter Thiel Sees High Bitcoin Price as Sign of Real Inflation",
+            "text": "Billionaire Peter Thiel regrets not buying more Bitcoin when it was cheaper",
+            "source_name": "UToday",
+            "date": "Mon, 01 Nov 2021 02:08:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.coindesk.com/business/2021/11/01/genesis-digital-expands-in-us-with-300mw-bitcoin-mining-facility-in-texas/",
+            "image_url": "https://crypto.snapi.dev/images/v1/z/y/egnylfenrzhtra3pwt6qqlhcte-75270.jpg",
+            "title": "Genesis Digital Expands in US With 300MW Bitcoin Mining Facility in Texas",
+            "text": "Genesis is building a new bitcoin mining facility to expand its North American operations using power partially from renewable energy sources.",
+            "source_name": "Coindesk",
+            "date": "Mon, 01 Nov 2021 13:06:00 -0400",
+            "topics": [
+                "mining"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.coindesk.com/business/2021/11/01/fortress-purchases-4500-bitcoin-mining-machines-from-bitmain/",
+            "image_url": "https://crypto.snapi.dev/images/v1/p/5/vmy5rtv2yncg7ep5jawcp45mz4-75136.jpg",
+            "title": "Fortress Purchases 4,500 Bitcoin Mining Machines From Bitmain",
+            "text": "The purchase will more than triple Fortress' hashrate to 645 PH/s.",
+            "source_name": "Coindesk",
+            "date": "Mon, 01 Nov 2021 07:54:00 -0400",
+            "topics": [
+                "mining"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/nydig-acquires-bitcoin-micropayments-firm-bottlepay",
+            "image_url": "https://crypto.snapi.dev/images/v1/c/h/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmtevzdnjm2flnjetzgflmy00njcxlwjmy2utngy3mdjhyzi3odzllmpwzw-75164.jpg",
+            "title": "NYDIG acquires Bitcoin micropayments firm Bottlepay",
+            "text": "Former Goldman Sachs partner NYDIG partook in Bottlepay's seed funding round in March 2021.",
+            "source_name": "Cointelegraph",
+            "date": "Mon, 01 Nov 2021 08:59:18 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/bitcoin-moonvember-begins-as-data-shows-november-is-best-month-for-s-p-500",
+            "image_url": "https://crypto.snapi.dev/images/v1/p/m/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmtevyte2zmq2zjqtytm1my00zdmxlwiyyzqtyjblmjhjmjcyzmm3lmpwzw-75180.jpg",
+            "title": "Bitcoin ‘Moonvember' begins as data shows November is best month for S&P 500",
+            "text": "It may turn out to be a race to the finish for both traditional and crypto markets, if historical data is anything to go by.",
+            "source_name": "Cointelegraph",
+            "date": "Mon, 01 Nov 2021 09:25:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/uptober-closes-at-record-high-in-best-month-of-2021-5-things-to-watch-in-bitcoin-this-week",
+            "image_url": "https://crypto.snapi.dev/images/v1/o/q/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmtevyznkmza1odetotuwyy00zdlmlwi1zgqtnmjlmmm3nzrlmdhhlmpwzw-75052.jpg",
+            "title": "'Uptober' closes at record high in best month of 2021 — 5 things to watch in Bitcoin this week",
+            "text": "October 2021, with 40% gains, becomes the best for Bitcoin price action since December 2020, even beating the Q1 run.",
+            "source_name": "Cointelegraph",
+            "date": "Mon, 01 Nov 2021 03:20:09 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/markets/cryptocurrency/21/11/23781448/how-bitcoin-miners-have-reinvigorated-this-rural-american-town",
+            "image_url": "https://crypto.snapi.dev/images/v1/s/5/bitcoin-3369039-1920-8-75044.jpg",
+            "title": "How Bitcoin Miners Have Reinvigorated This Rural American Town",
+            "text": "A Texas town of 5,600 people is benefitting from the Bitcoin (CRYPTO: BTC) mining boom that has the potential to transform its landscape.",
+            "source_name": "Benzinga",
+            "date": "Mon, 01 Nov 2021 01:44:23 -0400",
+            "topics": [
+                "mining"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://coingape.com/paypal-co-founder-reveals-the-reason-behind-increasing-bitcoin-btc-price/",
+            "image_url": "https://crypto.snapi.dev/images/v1/s/e/bitcoin-price-crash-china-300x225-75048.jpg",
+            "title": "PayPal Co-Founder Reveals The Reason Behind Increasing Bitcoin ($BTC) Price",
+            "text": "Peter Thiel, the co-founder of Paypal in a recent statement claimed he knows what's driving Bitcoin price up this October. Thiel, the billionaire entrepreneur has been an avid Bitcoin proponent, and when the top cryptocurrency rose to a new all-time-high (ATH) in the second week of October, Thiel showed signs of FOMO claiming he was The post PayPal Co-Founder Reveals The Reason Behind Increasing Bitcoin ($BTC) Price appeared first on Coingape.",
+            "source_name": "Coingape",
+            "date": "Mon, 01 Nov 2021 02:54:28 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/industrial-bitcoin-mining-breathes-new-life-into-tiny-texan-town",
+            "image_url": "https://crypto.snapi.dev/images/v1/f/v/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmtevotrmn2e2ztmtyze0yy00mjgzlthin2etodq0yjmxzjdin2zmlmpwzw-75037.jpg",
+            "title": "Industrial Bitcoin mining breathes new life into tiny Texan town",
+            "text": "Major Bitcoin miners have set up shop in a former aluminium smelting plant in the small Texan town of Rockdale.",
+            "source_name": "Cointelegraph",
+            "date": "Mon, 01 Nov 2021 00:12:27 -0400",
+            "topics": [
+                "mining"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://decrypt.co/84939/bitcoin-mining-difficulty-increases-since-china-crypto-ban",
+            "image_url": "https://crypto.snapi.dev/images/v1/x/v/dmitry-demidko-xzjpkskrdog-unsplash-1-scaled-gid-4-75151.jpg",
+            "title": "Bitcoin Mining Difficulty Increases for 8th Time Since China's Crypto Ban",
+            "text": "Bitcoin appears to have fully shrugged off the China crypto ban as the network's mining difficulty records its eighth consecutive increase.",
+            "source_name": "Decrypt",
+            "date": "Mon, 01 Nov 2021 08:22:31 -0400",
+            "topics": [
+                "mining"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://u.today/bitcoin-volatility-retraces-after-reaching-year-high-and-institutions-may-be-main-reason-for-it",
+            "image_url": "https://crypto.snapi.dev/images/v1/v/8/10518-75108.jpg",
+            "title": "Bitcoin Volatility Retraces After Reaching Year-High, and Institutions May Be Main Reason for It",
+            "text": "Bitcoin volatility goes down after receiving billions from institutional investors",
+            "source_name": "UToday",
+            "date": "Mon, 01 Nov 2021 06:21:00 -0400",
+            "topics": [
+                "institutions"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://u.today/argentinas-regulator-considering-approving-bitcoin-futures",
+            "image_url": "https://crypto.snapi.dev/images/v1/t/u/10533-75251.jpg",
+            "title": "Argentina's Regulator Considering Approving Bitcoin Futures",
+            "text": "Argentina's largest futures market is seeking the blessing of the local securities regulator in order to get into Bitcoin",
+            "source_name": "UToday",
+            "date": "Mon, 01 Nov 2021 12:02:00 -0400",
+            "topics": [
+                "futures",
+                "regulations"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://news.bitcoin.com/venezuelan-authorities-seize-more-than-100-miners-from-clandestine-bitcoin-mining-operation/",
+            "image_url": "https://crypto.snapi.dev/images/v1/p/p/shutterstock-1629721687-2-75058.jpg",
+            "title": "Venezuelan Authorities Seize More Than 100 Miners From Clandestine Bitcoin Mining Operation",
+            "text": "Venezuelan authorities seized over a hundred mining machines in a residential area of a central state. According to reports, the mining farm was operating illegally without permits that the national cryptocurrency watchdog, Sunacrip, requires for these operations. The seizure was led by the national police, officers from the national power company, and personnel from Sunacrip. […]",
+            "source_name": "Bitcoin",
+            "date": "Mon, 01 Nov 2021 03:30:51 -0400",
+            "topics": [
+                "mining"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.theblockcrypto.com/linked/122794/bitcoin-miners-score-their-second-highest-month-of-revenue-ever-with-1-72-billion-in-october",
+            "image_url": "https://crypto.snapi.dev/images/v1/k/c/20210216-mining-bitcoin-2-generic-800x450-75200.jpg",
+            "title": "Bitcoin miners score their second-highest month of revenue ever with $1.72 billion in October",
+            "text": "Bitcoin miners hauled in $1.72 billion in revenue during October, new monthly data shows, the second-highest level on record. The post Bitcoin miners score their second-highest month of revenue ever with $1.72 billion in October appeared first on The Block.",
+            "source_name": "The Block",
+            "date": "Mon, 01 Nov 2021 10:09:02 -0400",
+            "topics": [
+                "mining"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        }
+    ]
+}

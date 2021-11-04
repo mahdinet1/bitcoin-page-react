@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "spartan-bold";
+  scr: url(../fonts/LeagueSpartan-Bold.otf);
+}
+
+
+:root {
+  --color-my-secound: #93c1f3;
+}
+html,#root{
+  background:#181A1D;
+}
+.date-bg{
+  background:#283035 !important;
+  color:#858A8D !important;
+}
+.date-bg::placeholder{
+  color:#e3e5e7 !important;
+}
+.custom-mt{
+  margin-top:5rem !important;
+}
+
+@media screen and (max-width:640px){
+  .jj{
+    height:40vh;
+    margin-top:2rem;
+  }
+}
+
